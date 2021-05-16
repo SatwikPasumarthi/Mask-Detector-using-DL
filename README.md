@@ -1,5 +1,6 @@
 # Mask-Detector-using-DL
-### IntroductionTo fight the Covid-19 virus we just need to maintain social distance and most importantly **wearing a mask**.
+### Introduction
+To fight the Covid-19 virus we just need to maintain social distance and most importantly **wearing a mask**.
 In this project, I have used images of people wearing masks and without wearing masks. Using this data,
 I have trained my CNN model which is created using **TensorFlow**,**Keras** packages in python so that it will detect that whether you wore a mask or not. In the testing phase, 
 I wrote code on Face detection using the **OpenCV** library in python. So in the testing phase, you have to sit right in front of your webcam, and then my Mask Detector will show you whether you wore a mask or not.
