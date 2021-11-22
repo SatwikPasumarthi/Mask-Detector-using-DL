@@ -10,6 +10,9 @@ This project aims to design and develop a deep learning model for the detection 
 The ﬁnal accuracy level of my deep learning model is recorded as 0.98 and the loss is recorded as 0.043.
 The deep learning model detects whether a person wore a mask or not with the accuracy of 97%.
 
+### Visual Demo
+[Click here to see the video demo of the output.](https://youtu.be/R0asG0o4yXg)
+
 ### Insrtructions:
   To run my code in your computer you have to need following packages Numpy, os, pandas, TensorFlow, Keras, OpenCv.
   If your pc does'nt have those packages preinstalled. Follow the steps below
